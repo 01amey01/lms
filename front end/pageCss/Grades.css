@@ -1,0 +1,9 @@
+#addMarks {
+  width: 110px;
+  display: inline-block;
+  margin: 5px;
+}
+.grades {
+  padding-top: 70px;
+  padding-left: 70px;
+}

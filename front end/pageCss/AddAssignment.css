@@ -1,0 +1,11 @@
+.form-label {
+  display: inline-block;
+  width: 100px;
+}
+#formGroupExampleInput {
+  display: inline-block;
+  width: 200px;
+}
+.btn-success {
+  margin: 5px;
+}
